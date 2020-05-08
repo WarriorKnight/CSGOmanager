@@ -1,44 +1,39 @@
 Changelog
 
-All notable changes to this project will be documented in this file.
 
-The format is based on Keep a Changelog, and this project adheres to Semantic Versioning.
-Unreleased
-1.1.0 - 2019-02-15
+Released
+1.0.0.1 - 2020-08-05
 Added
 
-    Danish translation from @frederikspang.
-    Georgian translation from @tatocaster .
-    Changelog inconsistency section in Bad Practices
+    Added "Change font" tab, now you can easily change font of your game
+    Added "Configs" tab, you can import configs right into your game folder
+    Added "Useful websites" tab, just shows useful websites for csgo
+    
+    
+    
 
 Changed
 
-    Fixed typos in Italian translation from @lorenzo-arena.
-    Fixed typos in Indonesian translation from @ekojs.
+    Control box repositioned.
+    Font bug fix
+    
+    
+    
+    
+    
+    
 
-1.0.0 - 2017-06-20
+1.0.0.0 - 2020-06-05
 Added
 
-    New visual identity by @tylerfortune8.
-    Version navigation.
-    Links to latest released version in previous versions.
-    "Why keep a changelog?" section.
-    "Who needs a changelog?" section.
-    "How do I make a changelog?" section.
-    "Frequently Asked Questions" section.
-    New "Guiding Principles" sub-section to "How do I make a changelog?".
-    Simplified and Traditional Chinese translations from @tianshuo.
-    German translation from @mpbzh & @Art4.
-    Italian translation from @azkidenz.
-    Swedish translation from @magol.
-    Turkish translation from @karalamalar.
-    French translation from @zapashcanon.
-    Brazilian Portugese translation from @Webysther.
-    Polish translation from @amielucha & @m-aciek.
-    Russian translation from @aishek.
-    Czech translation from @h4vry.
-    Slovak translation from @jkostolansky.
-    Korean translation from @pierceh89.
-    Croatian translation from @porx.
-    Persian translation from @Hameds.
-    Ukrainian translation from @osadchyi-s.
+    Added "CSGO stats" tab
+    Added "CSGO tips/tricks"
+    Added automatic fill steam path
+    Added automatic fill of CSGO path
+    Added "Coded by Darkk" into settings
+    Added "All data" button in "CSGO stats", can show you all your csgo data in raw
+    
+Changed
+    Changed nothing
+    
+    
