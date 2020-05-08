@@ -3,7 +3,8 @@ Changelog
 
 Released
 1.0.0.1 - 2020-08-05
-Added
+
+    Added
 
     Added "Change font" tab, now you can easily change font of your game
     Added "Configs" tab, you can import configs right into your game folder
@@ -12,7 +13,7 @@ Added
     
     
 
-Changed
+    Changed
 
     Control box repositioned.
     Font bug fix
@@ -24,7 +25,8 @@ Changed
     
 
 1.0.0.0 - 2020-06-05
-Added
+
+    Added
 
     Added "CSGO stats" tab
     Added "CSGO tips/tricks"
@@ -33,7 +35,7 @@ Added
     Added "Coded by Darkk" into settings
     Added "All data" button in "CSGO stats", can show you all your csgo data in raw
     
-Changed
+    Changed
     Changed nothing
     
     
