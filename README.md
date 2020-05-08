@@ -9,6 +9,7 @@ Released
     Added "Change font" tab, now you can easily change font of your game
     Added "Configs" tab, you can import configs right into your game folder
     Added "Useful websites" tab, just shows useful websites for csgo
+    Added "Welcome tab"
     
     ==Changed==
     Control box repositioned.
